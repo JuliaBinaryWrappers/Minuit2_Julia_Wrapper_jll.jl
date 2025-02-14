@@ -1,719 +1,823 @@
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "ea4d981a1620e2efd08bada7b44ab15274f70dc1"
+git-tree-sha1 = "fff8a3002680ec53571628dd6bfe3bd36384d2ab"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "9eabc9c5197b6cb07e100d970d36d635231fd2b2582b767dd84e700b93c7ea91"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "161bfd1f9946bca782c0b8ceea43ab377d5b6e4e2ba8e7da146ae18bf6d4d779"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "1ca26599c6271aef2427907d553383ad6c09304a"
+git-tree-sha1 = "2b4bf3c05214a83f3cf6e45fc3eb1e8586f4c752"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "567ce599c47bbf5719c16b7b12e434c814052567adeeb204683f06b868b3e2fb"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "fd41d329917b08eb71aec3db554a2c505fe7aa26fdcfcc3eabd43229d78f1f25"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "c123ea6c3841d21b1c63e6d1c2fc16f3427e2878"
+git-tree-sha1 = "65a6e33289b3e93104ea90eda31ce16462c163d8"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "6f6ae803b8cdf1be16f1d4b8de663ee9cc401821d34a15acda3c55bd0eada378"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "91d043a3b5df6f3ba9ff788f8cf44b61f16f5145f3ac5d0e1a1182ea4c44f1bc"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "31357693f77a2c5144266370c866b9aa6fa2943b"
+git-tree-sha1 = "97d17ad8a854b7973929ec25b63378479ea0152c"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "d555be44ae1c54b98c8e7ad1d7c3bf7b0a9577227f6e21d90153b084927dd69f"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "aarch64"
+git-tree-sha1 = "910883a2b7cc9ae26357be11e53a480ee149faa0"
 julia_version = "1.7.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "20fcb0311a6febab026c795748c0605c75aec2415b800a026429b9aed760f91c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "0a7e7a560d3131ec3054d59269fc6671e940bf7e0cad14592708436d7318919b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "05d2ecf7607b8375475dbae8182021428f2ac850"
+git-tree-sha1 = "2e938fe6306a4d971cff3ee3b75764dbec323b98"
 julia_version = "1.8.2"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "7bac04aa571201b8e207f580a092c50d9256b246a59e1d067d231fbafbf16bcf"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "26bfda15b62947dab66137b199c40bd18247124c57e6939392cedbc9acadeaa0"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
-git-tree-sha1 = "dd41074a76775369ba6ab71af32714d8b0c40b26"
+git-tree-sha1 = "e4e3ab8ae1e1d469cc7a13e0726a4a726ae638f5"
 julia_version = "1.9.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "57b0e779cd85311257e6388591f2929ca9798d884d7b75f03072aefbebc2e739"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "c62ac596b812ee452baffb4834fe136e632293dc116ae91ca26b05fce2f2b0a4"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "43cf2951d1ce3ab63d541083585d0f4fd78254ab"
+git-tree-sha1 = "a819b9710575fd50320fd2c8d4de4f360c345e6f"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "1c72ab20f5759a7e6d208aaf6b2f05009d7b8b7407eade453684a9803f404bd1"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "22b390f1c5e312d9fc6383e9c160cfca51a7ce5cde590290c0c64a16f24f39b6"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5957cb5145147503f6f7822c02534e3c8a243f7a"
+git-tree-sha1 = "b8fd2f1a2ad460e6a74844acb17b9b5ece649267"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "7e70a911ab2b5bdef1faf2f1a31d9eb95077b87bf41067539f7c65b0a03c1bac"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "3ba117bcf51d2e4c976c298204864294033509120a62a56885cc261b6774c883"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d2a5dc8b8678526af79aa4fd41b5995882e97d7"
+git-tree-sha1 = "0bcf00561f96b623a249981c73721e98aa1fac9e"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "534121c3519013cc769574a16699db85f8d3580cc927c03ebefb6463d5144449"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "1922c5b6514723e7fabdf802a50144f5062e3dbc48380db123f2f1f4e054ab2c"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f68108e504476fb4087e3e2a6d99ebbbace01456"
+git-tree-sha1 = "20ac20ed6ecae59f3d8addb492a2e271017cbf72"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "a860d3e494afac905d01e7ec9f80a94d69809406c3e769016947a8f99d152ae7"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aac0431ca28851c89de9faa6cd433a03237666de"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "b09f21b0619c5ad1c4a24d2aebae64452662772b0e69c9133bb7cb510bee5ff8"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "a6e68fb7f7e32ad604a94a8bfc84098a3fefa38427fe0b433e9cabdd886e313a"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fdae18227bf48c0f6e25d62eca3cfe4fb13f6f6e"
+git-tree-sha1 = "19aa97cdf0e89c53672e982f24ecd8967e419bb6"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "da07eac9ad5b2601e8e9fc463b1113425e0b86e252cab91b100ab9ae066dc690"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "4420f9bcfa7d14f6c82d706573487361cc328a5a62a695b17cbe67d723d2a0f2"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "efa075f9986fbb815255981e87edf60a7e6a3bfa"
+git-tree-sha1 = "a005e8c5e316c17639d7cbcb83ab75cf71433a12"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "a155d60e81fc4311dfd6faffbcabf1a8457e3ebdc486d3e003e7cdf870ae9931"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "92550950682066ced163c23e57d6ab7321ed0f7ab04f08ba31e11d16133e421e"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4e00785292ed3d8aedb5531ef6fae74af6d37f27"
+git-tree-sha1 = "a955d330cac33f2a20e182c2b6050df0d6a3e2b6"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "5c4ff268d26b57c72a460d7b0212ecc63bd88e511bccfe033be99c6d7e962d38"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "4500b7c0656981e47f8019258bcb1a451404a31950679c9bf9bee4c1e9f8694f"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f49850506bbd33ec95fccd0038cba28c79944ba0"
+git-tree-sha1 = "3594db38611238c85cb01b4facff4d594dd3b73d"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "1b5664c2edac08dc0ceb6ce4692c70be254c36899babe0fbd0672e0ebc264617"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "8692d6cd28e16d959251e62f1b79324af615aa9e2bb3a44948cd6e3a7bc7f257"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3289ba6db74138be1f170837a798f4260de6d044"
+git-tree-sha1 = "87dd7784e921ac630c3014c472412c92b0e0b929"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "38080c8e759c1b786f3eddda5227ec00fb52daa306859028d4daeb3f5c38c969"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "ad4d639e282be408921080ea33a5a673b1098a8e8e23ef3c30b20cd8d9ca3f66"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c76abf9fd5023ba15b40aeb65d586656d81a8dc4"
+git-tree-sha1 = "74b22d3b776eded7872a00f9b721fe45f4fd4e06"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "b63f230f647b975b8439bdfa0668c1fb801c4cde3e69b73ba7bbeea35f8cf07e"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "8c9da59b42c49f5db2b53a9c64ec032ef0fb809cd7c2d00f2dff22be8b999bc1"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7bbb8e601df445b285d80d0e03b6b1758f5d21d"
+git-tree-sha1 = "afbde8cc845cba34089ac6ec44df260db5fd69ad"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "dd979ac56e487a37b5d860eeca4b2f02a933e2b4681a24f91bab24b39ce2343c"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fba04ff0b0406995fe4255194ccfb47973c0e412"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "443ae4a40f7cb0b6a50446194aec31e287fb6460d9829b2872258e11bf966ae6"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "831e9442465617f3a149b682cc9d131c030d2063b040d4bec6a8ea1ad0e15aed"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1eaf88784e7c6f582786f4fb3bd7984d6ec1ac0b"
+git-tree-sha1 = "83cd2236005d037fcd3acea4fa49344f678ac5e4"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "7e578af3bc923605194a3755008e326bb1a77cbf2f240a32acbc699bc7ebfc07"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "137282780fa705ac1303cf4cb0c89ec5cfbe75a819192b9af02dcefbe3b4c874"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc9368cbb3ea0b88b15d7b1a2ce02ff90e27aa62"
+git-tree-sha1 = "6cc61cb937361843cc2210e492e9d623999229f4"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "85362d3b1ed9e4a38696f7f05d2af12ce1af90f4d69b072aa5ccb4a8dd22c803"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "4546d178c5ba12975622b495636b225bd88199105d4cd6a327014fbde28f820d"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "90d3ed01f79d9ced275b5f31cb670e957967e216"
+git-tree-sha1 = "b0216686b50fe1959a3c76bfe1bdc899bf1b51ad"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "247ee695c1c441400b1d373837b7ec23f5ad953e738c5f12dd66ef738836acf3"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "a2fc7b73d1989da42b079da76026f4c3d67b4162e7faff9ef84361cc117d4726"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "16c9574d02848a53bcaa84d476a5f0d9c26fff41"
+git-tree-sha1 = "73a7bdb028878861498f776057674d01282103df"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "fd1020984bd85d481a1c6e9181647026e0ecc0d04bc42834bf7e683bb0b11236"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d228275eac13279654c9140b4c72f5205cfad8a0675ccb84b3c184873bd062ea"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "380bf6a2fb7464931da50905d9b653df16ba5bc3"
+git-tree-sha1 = "2a2cf2fa463abd03e5ab2e70150999c0e3b04e81"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "297045908c28e2df85abf5ea93dd6f14ed87a557658775c405356ab38115208a"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "476254239760f0dca427688a4808eb121a1fecd03c2495315bf6429ea9f55ee2"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5615ac1dcfc5d7158a3c62455c8bd358939fb9dd"
+git-tree-sha1 = "5f119bef9711ee16c5fd63e94c7be169df9819c4"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "0c41510e0166818e710b7114473af90123f97088829d6049e08f117095757ad9"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "a1f7a50f3a178198d4d675930430eb06e5b2eb765736afe65ff3011aee8ae69e"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5205518fe30a725c620694220361bb28750c8a27"
+git-tree-sha1 = "623de97b7f0f5b8983f5bb19fb6d86892e0efd49"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "38f1cbca7e120e0ce5bc56c960cdae6cc3d3bd4c0b041a985a3ea87e2f91e403"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4fd696906380dd9833491ae9c87fa742d2cd17e7"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "a61085f5e382d06c5c93408c7bc1d8f4e9c6f3dc4e80dec8020fdec60301cf63"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "7a9973ce2cc285f3810542e615f94d3648e4ea663f734d2a3d8b023c1f9c324b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b2372d77bf57b2922fb5bb3351bef678797a3309"
+git-tree-sha1 = "79735ba4c6d48112b4bc5415a07faf3bc4d82ac4"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "945452142c4c5c4a160adbd58d70239839677e709160d969d7b8747e122b9eaa"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "02b1fb8f9bb71593595da1e2e095f2e606a2ca3d111cb974ae12c7e2f0a20600"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dd7d21e095e78bf1140fe36654fdc3bf090bea50"
+git-tree-sha1 = "523d39babc438d21a34419d4f3e863d4d607d1d2"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "747f0428aabbe24d4aad958f839e1926105feebf2a91ca5be1501e3d6e59e6eb"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f518149901387fe75311ffce40e9c472794b0b7e1f18e6c4bf0d2403de0f247a"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e67a4a82fb6fbd0007275157fec6a87c294a787"
+git-tree-sha1 = "d4260ee196856858be092cf6adff4d30ff5fc7d1"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "f6708547f0f1649aa046d1d43908982ab99a5b4355c57a2da6f77f8d70b4dc0b"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "8fe5ed0a955f5afaba4069b72a7da75f9b626a1308b97d2726918d45e146919d"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa9a2e35dc29830a9ce0c446b50c4e2f0e84a17e"
+git-tree-sha1 = "88d16305288ba222e52989d4e987a5bff3fb0c75"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "8bbee8a6f6d2ea47b053205da8705734b2999fa40643f399c68a28df06f99001"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "fe74d27e988a2998cd275977eba0da3e7ace8f13f7c73cc0fe6f0f9355a52e00"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47a9b0356704b1f383b2269f2e8066e817882ef7"
+git-tree-sha1 = "cbcd7c7297ab53d6b54e59e75e8025f0cbba8792"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "04c4aec684a13d49445cbc157c9a7ba2e6b85782fa1cc56d925c81102e9c6e69"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "0c80d82228e74dde992df0876550a493d97c2596d4b852092ccf3983ca3bd73f"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0234e37d4d18b388c665f3df5d7d49f2776b2840"
+git-tree-sha1 = "f8fb4c9827090ebb870d0a6cf2db6f52965b3fbf"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "782f179e208a6255fde3d27da38de6ca68bf6e072637edb7284b9042ce54791c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "0fc767c5ec6c03d459be94eb91a124d6456fcacf5bdc035cbc1444b594863f6d"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6b39f252920e10ed51432dcf7bdd40141f86b90"
+git-tree-sha1 = "a0af197d0c8f48b73c91b2fae8cd11d78162795a"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "aabd625093b5be83d5299710566b8fe323e9d255a8070cbd6efb24c5863503a7"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "99c9ac357302ef2e8a48390f6412b08821bca26e"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "6b1c8b6f3a563d9a2349423f6e26579fef1beb8a90df1b8fd62c53b72f5baa23"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "d450455ab474c10231c21ebaacad43f3aa6bda4bca13343e8967345d2e643fd9"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "988b56a4774908dbffc76bc03fde842fe7ea203d"
+git-tree-sha1 = "9f1f43520094b8df5bea7ba5f6d86a3a914341f5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "fd1174e4b09953061dbe2ce9f75ffe9c00ae77c518ec2a784f98fa6572a291e1"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "4517e62677dcffafe83c63c69076612ece062a8d5b1a0e03094a071c136fbe7c"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a5ee5da21c2db0436c2b7eec51a133373c90281"
+git-tree-sha1 = "01f5d2c9ceb68cc6a240f126896e83ccdca3cc1d"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "78ae3582dbb250f981c57581e4cc2a89a8c367dd3d247395a4acbe30cf5b7469"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "5ef07f279059e9bbd3f81644f18d546c02c38f12f8bcb236839bf36577ed10fd"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7774b26c4d29a9be4ebe66b4e0c16167b53288d1"
+git-tree-sha1 = "10537bfee16e606e59b6d65f815c0ece34b94125"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "5814e13c5a223badb3c775ebddfa77eb6147e3adf69898bc46fc4c4120129eaa"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "1bc487e881e3abc356d0fe1629156f37fc5f71feb745ed49d2bdd069eac8b1c1"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "f3796958b78b9f7701f46c13821336e3ac6d8e5c"
+git-tree-sha1 = "2c0e19ea4603eceb6d7a68e9a61e955762bf7c8f"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "086d0d2c2e133ea66f5882168b26a3e94feb1e32fd0f04efa75ac35bdeff6aae"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "bc79d22ecd76c05163d5a99f0f77cff5947317359daa5a53e4b296dc24e1e61f"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "c207cce46ac471c1d964ed6d59ca53e473304b32"
+git-tree-sha1 = "40ad5c7c46875ae590981e803066e18efa7a53a8"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "4e98e03f3c9ae72831515c112c4efc05eabd33131b0bf684163ea4def0fb0a42"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "c1679afde31028111ce1c59ed8465d36f91f17c4a4ca505887d3b58ce0c67793"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "257afd539ad29a30164b5fcd8ff1790833bb8a3e"
+git-tree-sha1 = "33ca79558176636b45a355bbaaefa58176b17dbf"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "c3f99c24ea8b3b0f48844428a50d5973c57b33e19f798750c733e51abb90a949"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "d247bf43557fac0dc2a96d720c1a02e7fbc530746856e27a71796ffb34bbc0e9"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "e3af9ba0505207e6d0d9a71649bf14de36dcc565"
+git-tree-sha1 = "6b1ce7ba7ad2584d018e373e0dc94a460fb6fdf1"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "6ba27573010a9a9abf3b9bb57bd0306b713f23442caab85838ef8ed169250565"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+git-tree-sha1 = "8148b2efafe1d31f9204f521fb696ff2c8173195"
 julia_version = "1.6.3"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "e5861ee7abe6280cdc5c9b96bad3623458f6bdb33c64cc6c332a2d2a74328ea6"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "3d0dbb8997306771ee8415c62b53c8ba64f3f8b0f7a8da406ec8a8036f5a148a"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "03b154d2217b0ca49e91d1013784e8b39241674a"
+git-tree-sha1 = "6b8408eb22e2c14afca868f29a77816a329f030a"
 julia_version = "1.7.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "3eda59e8787206b5cec8934336003b7e46a1b7770e902c676c70299b65556810"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "8d5ba1c467e7cedd98498139e88533f16d63d5feb908fe25672d7bf9458ec4d3"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "f92d201249e698008410807a7a84ecfa3f8b6f85"
+git-tree-sha1 = "3188ed781483c576218415a9a3ace88e392dc5c0"
 julia_version = "1.8.2"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "f26e12e0ddaf9709cfa3d2585f570fe94a0feaaf3abdcf0cbd18363b5f5e1ff3"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
+    sha256 = "93d5a25bcd2f7ae01aca3ecaa08fa762f09f8fe0e9e3eccc0a440aae06b9ff39"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
-git-tree-sha1 = "b8bf06172152633462359282026fe3e2dc923215"
+git-tree-sha1 = "706bb149b8af226a981a44849ee907cba06377d4"
 julia_version = "1.9.0"
 os = "macos"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "d5b3501599c00173065055f480181ffca0f5f53fd11a01ae04771faa2ef63f80"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "b076e1ab26a67bffdb7843f3a6b361dbc7e04b8a4d28cb942aac999fe5765d8b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "32b4a9a4cc4e630b3dff129fa73702c2a90eae0b"
+git-tree-sha1 = "0e45f409373d31eb1fd94a2e4c207bce4c77372f"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "f273f104b98562e2b66925b1125bf3afe8a129ca1366fc953784c1e7c1cfc4e3"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "92ad291e32a15fff370cfe59f0d71c9f182b15aa141c5b5c0d31b101fc0d1d32"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5877c216d11a31e997f474cbb1ebeae7e932b5b9"
+git-tree-sha1 = "f510ec29de1650984d34f7680d3f6cf335f5453b"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "9d95d7eef86d049fa764a41fcb35bfb8a513d6ccf01b8a28968ae037d9041b75"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "3500198cb6737c0e34359fdeb3b4ade8790020a928af04567ce955afe5d0f26d"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "101d90c3d599b4f1f0528daf203e7e0de8425e84"
+git-tree-sha1 = "30bc05b47f068a1f52208b330e2d1e4640ed03ca"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "ec1402cc5fc257c7d1f482300488ca49688ddf2df154f9416b14fe26b2844e9e"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "f24419bab4b5d61805ffef541de6c10fd24e889577af74be70c01a0ec68bebde"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "932b3d8d9b2107b29e10fc5d00be220d1e24a16c"
+git-tree-sha1 = "c347047c1e688201f43462f6f7086a12d9102e49"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "5b36971df5082d78a75b2e47143430b751817c08afe0a326e09e67d80a030146"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1ea16e21935b929d6f8a16a68d7ef5452e65ead"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "665b93186856e6fc2ec27b147b055deb0a418a9fd838d86e1377d09e1be8853c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "629dce30d00640553dc8cf9dd804450e16f7628978732f8785aec472b05016aa"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3128e84f22ecd0bed9397a9f55c55adec3e24c11"
+git-tree-sha1 = "98db7da7fd0b2975d47182bdff4dedbe807e4645"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "83b1aea13d92934530330774257da4b87cf8f50af900a9c51f3ce2caaf45fbea"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "511fcb5c1469542b62c995a11ac534038f72359350f86122d98208ae28342767"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8e5961dc386a4d5c903ddae8a6d8974783fd4aad"
+git-tree-sha1 = "e83a6ca38debe6d062f26f3fd4276355e9643770"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "0d94bf71c3a03e48c65877327d3258cdbd0d5cf1b6f3dbb153c027e7c68d8fc0"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "434adc0181c9701e518f4cd6a157953bef58a8809d567c9247fbb7739f46ceb2"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8798f79364aa64a57b460a006c348d2eee5766c7"
+git-tree-sha1 = "293af114d8ca42147be22091b7d1a62b31b33204"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "825fa526bd8eda85c83a08d13c57d260b7933bedd8400a43f6002f49648337a7"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "45cfccd74162aa3c905a8e67e5680736f01d3e407b4cec36afbe264a4bc072e1"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "54ef1f2290f83221c0ca277a7e2a99802c9050b7"
+git-tree-sha1 = "13c64eada3b8fdf2401cbd58195ba3ea3100b28b"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "36456f6204148ff2c8db73dab54d3b335a08ef8f987d40ea9adaf97cfb147c91"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "b8585c693f8566736ef383cf23a538e090885aca29d5892e1951e098541e1867"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3c5970a53f58c59ffa04d52a4878d75c254bd83d"
+git-tree-sha1 = "f7ddb366d1e358cc3fe9670f2d226035a5b10803"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "d7bb38ecbf63711c42558ab24fffbe34f67c9e680f82b9dfde03b29b0b7195bd"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "5a23469e5497d0f526b8f2fb4dfc3db3ce5f687f3973f092381766a40190f7e0"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "147e4f1459490e233301fee6ee01e80c95008af8"
+git-tree-sha1 = "3d4b9499b0069fafc1f8ad700f76479be5b5adf1"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "93d72b00dc77fecf8e6e8260c05cb18d92a853f149dbbaaa69525f4940b15f1a"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "ee8fca56d44ef626cf15b5ee137c822c5b7643eddec5f94123db45d2228ae940"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4c73b66321c566ae52bab7b343e77632ea97baec"
+git-tree-sha1 = "86478250c5b6f3197e19608067bcd95c4a89ce7d"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "5834984e5434b4a90875022bd9456eda1ef457f5b17ef665d52b8cc7cd7d6f13"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9146d9060a4b3deca857e0b2e0f5c76369bf5a22"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "2e0303c29ace51a05b7fd30fcddc3e74dd0b1a519257d6ecaddaa4bd295e4254"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "14fc941273e5e44e2e5d92f85b163f4c42a06b60b62fbc65d22f9eeada18a6bb"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "165dfe2da4ce4ac208eebdc34ff4862d502a3a47"
+git-tree-sha1 = "ed3e72d491bc25deb5c333b97107e2230b599ae5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "6579e9c12f8c1741ae5b8ad7a6a1dcd3f60d561a76fdfae9ff3b228e30afc54f"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "2088966da5fc22692d605acda2e951ba83640feff562d750e946dd8c8ad33fd4"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "914d7af57b0acf659d47a24d1ac664ecf014f39a"
+git-tree-sha1 = "7f30f9869fd79472cb8308452f1850e03fe59589"
 julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "a04d56106538afcadb59819a422eba6fdd52c10989d7e1ea44651bafcecd853d"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "e4375fefd3971b4d56ee6c7e3e977417759d229d5ea329dbe309fa8d8ec88068"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "13f80ffe91de654a351d9b76681935c7d1e5b8aa"
+git-tree-sha1 = "0cd58cd8af7b1418b732039fa3bfa4b1995a2e6e"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "f676fb41fe4c7215e29b441be55c1bcf805cc626af35fdb52915dad612a47c8b"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "fa8b218e75e768ac1123bb8dd5f15a49c0cf4b9a88eab49bc2202843ff362f8d"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1ce51eed9ee92a3abf56789cfc7c17348b442b63"
+git-tree-sha1 = "64573166f9bf29ca9b2e7c54fdd7184f57a53d00"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "e213c475e32ad6cf019405c606d957fac25b56c52db9e43bff3897c2eadcdb19"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "b702c29febfe2ee31b5738a6461574c885406821dc9a2772451ccf685aa0ef30"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "790cd90913ab8573e394f5ef4ac5c528e7f1fa5c"
+git-tree-sha1 = "843954271937cb63093f44f2090f0d0f0e6c67d9"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "ed95e696af87476c770335814b8e60ee6b0a022e506e9685d0f56a1bf26ea822"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "0e7a63ca4797c2c9a68ce36ff1e1296717ac9a3c0e66a75456e9c8deb58e7fdd"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b07323e38c09f88cfa8eeabb124401f0a40327fa"
+git-tree-sha1 = "ded7d9bd0e32865b2cf351116a019fe4df29973b"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "57650d940b8263df1ee5d48760dee173d273cf514dc89f2cc0f4a940d3bb62a1"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "81054b237456674302cbaca52c2de6963f2bf32cafcf388288e1f281c05dd4d7"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ce44c39dd81a97f3456c0318bfd2980b842226c2"
+git-tree-sha1 = "ded7d9bd0e32865b2cf351116a019fe4df29973b"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "81054b237456674302cbaca52c2de6963f2bf32cafcf388288e1f281c05dd4d7"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "35018c7862e305e98bf774074c01c70fc196bc50"
 julia_version = "1.6.3"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "7c65ca08b6cc36734d0a337d4dcd7578a33079825fe34250c602a2e294352358"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "e27bc93d83595cfec5d02c1f5a3d5539c5e90c681ecda76f6390a3f1c161492a"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fa6d36a74c60dab03184c38a8d450199cce6e6b1"
+git-tree-sha1 = "2b70a51b6e479ca4e5fd713780cb0b54766b16d0"
 julia_version = "1.7.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "864503faaf21e3467f2812b62024c9051b4cbe3662345e1bd5ce537b05cab308"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "0753f5f12bbe9790a925314d6bf3612ad2cef66e41153cde1cebac7ba426c72b"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2fc0663a4abf77aca283aafe02fea2b8cff1f7e7"
+git-tree-sha1 = "90cb481848a1ac6489119cea95937ca99a054c34"
 julia_version = "1.8.2"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "49488a60ae69db40fd5b6f3011db59538bbcae9082cafdc79f4e207e95b95db7"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
+    sha256 = "f1e8077675b3cc9009facf2f867305c12b89e3c0418669bab712df23fc994d22"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "19cb2346e2aae64a2501c550ea03547c3a019cf4"
+git-tree-sha1 = "4f2829a9be52d5bba63efb56524d46b60084a4b0"
 julia_version = "1.9.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "dc243d2579430f2c30389b9aef2154d449900f200d31c3fce29eb94098cab329"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "eaca933fd8f1979c9ecc19e8a65c8dec1cea54e39636b5159603113e66fa3598"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82ed39887b2f09a248b1b29f1e2ae8a673c33f30"
+git-tree-sha1 = "8ddc04be38d91a21683290d0e01486d2f2a27964"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "ddcf61e270769cbc614c3a86e1ad24feba8c90932f0237b77bb560a1cc5b2cb0"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "3679fd8317be02abcd5487c5c175729efa494ee5b1490508452db945589d3be5"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ffe8cdc639a5abfd3bbe095b787aab4260e7419b"
+git-tree-sha1 = "20deb88056d6dfce098495b2d1ee37ffb9ca3e5b"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "e381d6b77719b3ec7be509a23ca9bd2cab35446c92b432c04cf3cb178f406a8c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "5cb50ddafbeb4f4b20e26b76c083116144f99b4c889a111676ba6394a7135a78"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc46d5e4770b1c82e70263774b95642ec869ea00"
+git-tree-sha1 = "c0dc3ea99a56d29ea8a89b4415d5bcb243b8bda2"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "c08ea1c27a24af509a1f506784104a57f1007f3bc16b2a008f1fddbe642632e2"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "9c5fce3f2259a32747cf30b058027609dbf193fac2c519dc4fa38817ef8fb522"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2cdb916e09f2c9a7b7a12a7f87c8625866b81111"
+git-tree-sha1 = "c0dc3ea99a56d29ea8a89b4415d5bcb243b8bda2"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[Minuit2_Julia_Wrapper.download]]
+    sha256 = "9c5fce3f2259a32747cf30b058027609dbf193fac2c519dc4fa38817ef8fb522"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
+[[Minuit2_Julia_Wrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "06ddcd0a954391bf8f43001c25e780b4db8f27b2"
 julia_version = "1.6.3"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "1f966a95ada3a4125ed42db6eccff5154c6c6b117010927371e6bd6b56550a58"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "a6fbbdcda0f6555337ee95b0148f350f0f540e1d40c9087b0a9e4c27e7e04aa6"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64ad4c6e6f783dab90a99025650b3c28397aa3fa"
+git-tree-sha1 = "a53ce2d1dbd03f63feb610b4bbff589f7dc65165"
 julia_version = "1.7.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "b31c68984f336b8365dad5adf3237d49f99a9cb15b294804bef367411957a46c"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "4f4bc0dfbf780ce70df972e785cc71ce6d347636acd5fcaed430812b2aa725a9"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "53195dc66911bae4b212774822cde002c3340b1f"
+git-tree-sha1 = "9be30a6744552a9cae812169acdeb23b8e65be08"
 julia_version = "1.8.2"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "0f26ccf08d0f009fc57a5bf9aee799b1818a7b24ce0d076500a86091b93f3006"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
+    sha256 = "a09c2f85dc792726795dc753ee353563e01325116d88e41e3818d1b53a33b57c"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.2.tar.gz"
 [[Minuit2_Julia_Wrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "47786323c0589bb64297dbb56199d3f63865ab15"
+git-tree-sha1 = "14c5e29811f5f2a798ef76b88b7ace719011f71e"
 julia_version = "1.9.0"
 os = "windows"
 
     [[Minuit2_Julia_Wrapper.download]]
-    sha256 = "b9c17f1a0ae3f0a3137956d447d606d248fc394e808a4d62667f2a55af8feeac"
-    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.2.0+0/Minuit2_Julia_Wrapper.v0.2.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "266881e46e0f0ffc2b9b4df557a35605616ff87919f8e886489836455009b1f1"
+    url = "https://github.com/JuliaBinaryWrappers/Minuit2_Julia_Wrapper_jll.jl/releases/download/Minuit2_Julia_Wrapper-v0.3.0+0/Minuit2_Julia_Wrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
